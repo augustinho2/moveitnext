@@ -42,3 +42,9 @@ Abra [http://localhost:3000](http://localhost:3000) no seu browser
 
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ <br>
+## :information_source: Imagem do projeto:
+<br>
+<p align="center">
+  <img alt="moveit" src=".github/moveit.png" width="100%">
+</p>
